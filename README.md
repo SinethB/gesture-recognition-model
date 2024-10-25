@@ -1,4 +1,4 @@
-# Custom Gesture Recognition Model
+# Gesture Recognition Model
 
 This repository hosts a custom-built deep learning model for recognizing hand gestures, created entirely from scratch. The model is trained to recognize gestures such as "thumbs up," "thumbs down," "fist," and "five," and can be utilized for gesture-based controls in interactive systems.
 
